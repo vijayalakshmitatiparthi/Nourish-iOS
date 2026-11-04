@@ -4,7 +4,7 @@ Uploading Nourish_Demo.mp4…
 
 # Nourish: SwiftUI demo iOS application
 
-A local, offline prototype for a Chennai-first custom healthy meal bowl and daily subscription startup.
+A local, offline prototype for a custom healthy meal bowl and daily subscription startup.
 
 ## Run
 1. Unzip the folder on a Mac.
